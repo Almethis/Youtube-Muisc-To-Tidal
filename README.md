@@ -4,7 +4,7 @@
 Transfers a single playlist to Tidal. 
 
 Youtube Music Playlist ID can be found at 
-https://music.youtube.com/playlist?list=<Playlist ID>
+https://music.youtube.com/playlist?list=PlayListID
 
 #Requirements
 ```
