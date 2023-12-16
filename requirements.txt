@@ -1,0 +1,5 @@
+python-Levenshtein
+ytmusicapi
+tidalapi
+fuzzywuzzy
+re
